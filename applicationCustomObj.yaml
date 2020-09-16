@@ -1,0 +1,6 @@
+apiVersion: "custom.app.local/v1"
+kind: Operation
+metadata:
+  name: application
+spec:
+  replicas: "3"
